@@ -24,4 +24,4 @@ While no formal analysis was conducted to compare Solana’s price to these vari
 **Matplotlib / Seaborn / Textacy** - Data visualization tools 
 
 ## Communication
-After conducting my analysis, I shared my findings with my cohort via this [presentation](https://github.com/mkamel96/NLP-Project/blob/main/Final-Project/NLP%20Project.pdf).
+After conducting my analysis, I shared my findings with my cohort via this [presentation](https://github.com/Michael-A-Kamel/NLP-Project/blob/main/NLP%20Project%20Presentation.pdf).
