@@ -23,7 +23,7 @@ While no formal analysis was conducted to compare Solana’s price to these vari
 **Snscrape** - Python Scraping library that enables web scraping for social networking services (SNS)   
 **Scikit-learn** - Python Machine Learning library that provides NLP Modeling      
 **NLTK** - Natural Language Toolkit   
-**Matplotlib / Seaborn / Textacy** - Data visualization tools 
+**Matplotlib / Seaborn / Textacy** - Data Visualization 
 
 ## Communication
 After conducting my analysis, I shared my findings with my cohort via this [presentation](https://github.com/Michael-A-Kamel/NLP-Project/blob/main/NLP%20Project%20Presentation.pdf).
